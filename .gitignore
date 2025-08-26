@@ -1,0 +1,24 @@
+# STM32 FreeRTOS Multitask Lab
+
+# Ignore build and IDE files
+Debug/
+*.elf
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
+*.mk
+
+# STM32CubeIDE
+*.launch
+*.ioc
+
+# User-specific files
+*.swp
+*.swo
+*.log
+
+# VSCode
+.vscode/
