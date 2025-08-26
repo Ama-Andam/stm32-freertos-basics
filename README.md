@@ -42,7 +42,7 @@ This implementation uses STM32 HAL drivers and FreeRTOS middleware:
 ## Getting Started
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/<your-username>/stm32-freertos-basics.git
+   git clone https://github.com/Ama-Andam/stm32-freertos-basics.git
    ```
 2. **Open in STM32CubeIDE** (or compatible IDE)
 3. **Build and flash** to your STM32F446RE board
